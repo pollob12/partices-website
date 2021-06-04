@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0; 
+} 
+
+.full-website{
+    text-align: center; 
+    color: blueviolet; 
+    width: 1024px; 
+    margin: 20px auto; 
+    box-shadow: 1px 1px 6px rgba(0,0,0,.4);  
+ 
+} 
+
+.menu{
+    background-color:#7bed9f ; 
+} 
+
+.container{
+    background-color: #ffa502 ; 
+} 
+
+.footer{
+    background-color: #70a1ff; 
+} 
+
+.footer-bottom{
+    background-color:#ff6b81 ;  
+}  
+
+img{
+    max-width: 100%;
+    margin-bottom: -5px; 
+} 
+
+.opx{
+    padding: 10px 0;  
+}
